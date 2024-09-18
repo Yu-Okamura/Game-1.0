@@ -27,13 +27,8 @@ function Home(changeScreen) {
 
     fill(0);
     textSize(50);
-    text("Group 7A", width / 2, 100);
+    text("Game!!", width / 2, 100);
     textSize(20);
-    text(
-      "Tyler Cosgrove, Yu Okamura, Callan Young, Romail Mohsin",
-      width / 2,
-      150
-    );
   };
 
   // function to draw a game button
