@@ -22,8 +22,8 @@ function draw() {
 }
 
 function mousePressed() {
-  if (getAudioContext().state !== "running") {
-    getAudioContext().resume();
+  if (p5.prototype.getAudioContext().state !== "running") {
+    p5.prototype.getAudioContext().resume();
   }
   let temp = screen;
   myScreens[screen].mousePressed();
