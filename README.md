@@ -13,3 +13,4 @@ Animal Hunter - Click on the animal randomly selected by the game (the objective
                 
 How to Play: 
 Access https://yu-okamura.github.io/Game-1.0/ on any web browser. 
+Disabled for now as being updated.
