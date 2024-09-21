@@ -12,5 +12,5 @@ Animal Hunter - Click on the animal randomly selected by the game (the objective
                 The game ends when the player reaches 15 points or the timer runs out.
                 
 How to Play: 
-Access https://yu-okamura.github.io/Game-1.0/ on any web browser. 
+Access "" on any web browser. 
 Disabled for now as being updated.
